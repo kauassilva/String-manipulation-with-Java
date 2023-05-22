@@ -50,3 +50,8 @@ A concatenação de Strings é o processo de combinar/juntar duas ou mais String
     String parte2 = "mundo!";
     String minhaString = parte1.concat(", ").concat(parte2);
     ```
+
+
+
+## Referências
+* [String em Java: Entendendo e utilizando essa classe](https://www.devmedia.com.br/string-em-java-entendendo-e-utilizando-essa-classe/25503), por Devmedia
